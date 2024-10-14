@@ -54,15 +54,8 @@ This project performs analysis on Sphygmogram (SPG) data, including feature extr
 - scipy
 - scikit-learn
 
-## Contributing
-
-Feel free to fork this repository and submit pull requests with any enhancements.
-
-## License
-
-[Specify your license here, e.g., MIT, GPL, etc.]
 
 ## Contact
 
-[Your Name]
-[Your Email or other contact information]
+Ali Owji
+ao798@georgetown.edu
